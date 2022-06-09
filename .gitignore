@@ -1,3 +1,5 @@
 train_simplified/*
 test_simplified.csv
 gs.png
+.DS_Store
+shuffled/*
