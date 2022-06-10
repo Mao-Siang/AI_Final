@@ -3,3 +3,4 @@ test_simplified.csv
 gs.png
 shuffled/*
 .DS_Store
+.ipynb_checkpoints/*
