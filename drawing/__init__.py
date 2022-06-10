@@ -1,0 +1,20 @@
+import os
+
+
+dir = os.path.join(os.getcwd(), 'train_simplified')
+
+csv_paths = []
+labels = ['The Great Wall of China', 'airplane', 'The Mona Lisa', 'The Eiffel Tower', 'anvil', 'alarm clock', 'ambulance', 'animal migration', 'angel', 'ant', 'asparagus', 'bandage', 'arm', 'apple', 'axe', 'barn', 'backpack', 'banana', 'baseball', 'basketball', 'basket', 'beach', 'bat', 'bathtub', 'baseball bat', 'bee', 'beard', 'bed', 'belt', 'bench', 'bear', 'bird', 'blackberry', 'birthday cake', 'bicycle', 'binoculars', 'brain', 'bracelet', 'bottlecap', 'book', 'blueberry', 'bowtie', 'boomerang', 'bulldozer', 'broccoli', 'broom', 'bread', 'bridge', 'bucket', 'butterfly', 'bush', 'cake', 'calculator', 'bus', 'cactus', 'camouflage', 'calendar', 'camel', 'camera', 'canoe', 'car', 'campfire', 'cat', 'castle', 'carrot', 'cannon', 'candle', 'chair', 'church', 'cello', 'cell phone', 'ceiling fan', 'chandelier', 'compass', 'cookie', 'coffee cup', 'cloud', 'circle', 'computer', 'clarinet', 'clock', 'cooler', 'crab', 'crocodile', 'cow', 'couch', 'crayon', 'diamond', 'dog', 'crown', 'cruise ship', 'dolphin', 'diving board', 'cup', 'dishwasher', 'door', 'drill', 'duck', 'dragon', 'donut', 'dresser', 'drums', 'envelope', 'elbow', 'eyeglasses', 'elephant', 'dumbbell', 'ear', 'eraser', 'eye', 'fan', 'finger', 'fire hydrant', 'fence', 'face', 'feather', 'fireplace', 'flip flops', 'flashlight', 'floor lamp', 'firetruck', 'flamingo', 'fish', 'flower', 'frying pan', 'fork', 'frog', 'garden hose', 'flying saucer', 'foot', 'garden', 'golf club', 'giraffe', 'goatee', 'grapes', 'guitar', 'hand', 'grass', 'hamburger', 'hammer', 'hedgehog', 'helicopter', 'headphones', 'harp', 'hat', 'helmet', 'horse', 'hexagon', 'hot dog', 'hockey stick', 'hot air balloon', 'hockey puck', 'hospital', 'hourglass', 'jacket', 'hurricane', 'ice cream', 'house plant', 'hot tub', 'house', 'lantern', 'key', 'jail', 'knee', 'keyboard', 'ladder', 'kangaroo', 'lighthouse', 'leg', 'lightning', 'laptop', 'leaf', 'line', 'light bulb', 'lobster', 'lollipop', 'lipstick', 'lion', 'marker', 'mailbox', 'map', 'monkey', 'microwave', 'matches', 'megaphone', 'moon', 'microphone', 'mermaid', 'motorbike', 'mouse', 'mountain', 'moustache', 'mouth', 'mug', 'mosquito', 'nail', 'necklace', 'mushroom', 'octagon', 'onion', 'octopus', 'ocean', 'nose', 'oven', 'palm tree', 'owl', 'panda', 'paintbrush', 'paint can', 'peanut', 'parrot', 'parachute', 'pear', 'pants', 'passport', 'paper clip', 'picture frame', 'pickup truck', 'piano', 'peas', 'pencil', 'penguin', 'pig', 'pliers', 'pizza', 'police car', 'pineapple', 'pillow', 'potato', 'postcard', 'power outlet', 'pool', 'popsicle', 'pond', 'purse', 'rake', 'radio', 'remote control', 'rainbow', 'rain', 'raccoon', 'rabbit', 'rhinoceros', 'roller coaster', 'sailboat', 'sandwich', 'saw', 'river', 'rollerskates', 'see saw', 'saxophone', 'scissors', 'sea turtle', 'scorpion', 'school bus', 'screwdriver', 'shorts', 'shoe', 'shovel', 'shark', 'skateboard', 'sink', 'sheep', 'smiley face', 'sleeping bag', 'snake', 'snorkel', 'skyscraper', 'snail', 'skull', 'snowflake', 'sock', 'speedboat', 'soccer ball', 'snowman', 'spider', 'spreadsheet', 'star', 'steak', 'squiggle', 'stairs', 'spoon', 'square', 'squirrel', 'stethoscope', 'streetlight', 'stop sign', 'stove', 'strawberry', 'string bean', 'stitches', 'stereo', 'sun', 'suitcase', 'submarine', 'table', 't-shirt', 'teapot', 'swan', 'swing set', 'sword', 'sweater', 'tennis racquet', 'teddy-bear', 'tent', 'telephone', 'television', 'toe', 'toilet', 'tooth', 'tiger', 'toothbrush', 'toothpaste', 'toaster', 'tornado', 'tree', 'tractor', 'train', 'triangle', 'traffic light', 'trombone', 'violin', 'trumpet', 'van', 'underwear', 'vase', 'umbrella', 'truck', 'wine bottle', 'wine glass', 'washing machine', 'waterslide', 'wheel', 'watermelon', 'windmill', 'whale', 'wristwatch', 'zebra', 'zigzag', 'yoga']
+count = 0
+# for file in os.listdir(dir):
+#     labels.append(file.split('.')[0])
+
+dir = os.path.join(os.getcwd(), 'shuffled')
+for file in os.listdir(dir):
+    csv_paths.append(os.path.join(dir, file))
+
+csv_paths.sort()
+# print(csv_paths[-1])
+
+# if __name__ == '__main__':
+#     print(os.getcwd())
