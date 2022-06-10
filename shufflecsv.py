@@ -12,6 +12,6 @@ for i in range(100):
     suffled.to_csv(os.path.join(destpath, "train_data_{}.csv".format(i+1)))
     
 
-validate = pd.concat([pd.read_csv(os.path.join(curpath, f), nrows = 300, skiprows=[i for i in range(1, 50000+1)]) for f in os.listdir(curpath)])
-validate_shuffle = df.sample(n=80000)
+validate = pd.concat([pd.read_csv(os.path.join(curpath, f), nrows = 100, skiprows=[i for i in range(1, 50000+1)]) for f in os.listdir(curpath)])
+validate_shuffle = validate.sample(n=34000)
 validate_shuffle.to_csv(os.path.join(destpath,"valid_data.csv"))
