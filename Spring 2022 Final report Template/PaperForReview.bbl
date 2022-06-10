@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Geiger2013IJRR}
+Andreas Geiger, Philip Lenz, Christoph Stiller, and Raquel Urtasun.
+\newblock Vision meets robotics: The kitti dataset.
+\newblock {\em International Journal of Robotics Research (IJRR)}, 2013.
+
+\bibitem{ZengCVPR17anticipation}
+Kuo-Hao Zeng, Shih-Han Chou, Fu-Hsiang Chan, Juan~Carlos Niebles, and Min Sun.
+\newblock Agent-centric risk assessment: Accident anticipation and risky region
+  localization.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition (CVPR)}, 2017.
+
+\end{thebibliography}
