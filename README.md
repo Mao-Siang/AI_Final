@@ -2,7 +2,7 @@
 
 ### Quickdraw Classification Problem
 **website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview <br>
-**dataset:** shuffled from train_simplified.
+**dataset:** shuffled from train_simplified from https://www.kaggle.com/competitions/quickdraw-doodle-recognition/data.
 
 ## Start Training
 
