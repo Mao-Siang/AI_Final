@@ -1,7 +1,7 @@
 # AI_Final
 
 ### Quickdraw Recognization
-**website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview \\
+**website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview <br>
 **dataset:** shuffled from train_simplified.
 
 ## Start Training
