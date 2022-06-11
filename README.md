@@ -11,7 +11,7 @@
 - Run all cells in quickdraw.ipynb 
 
 ### Train at Local machine
-- clone this github project 
+- clone this github repository
 - Either run all cells in quickdraw.ipynb or run the main.py in branch `package`
 
 ## Submit to Kaggle
