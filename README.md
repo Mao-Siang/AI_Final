@@ -1,6 +1,6 @@
 # AI_Final
 
-### Quickdraw Recognization
+### Quickdraw Classification Problem
 **website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview <br>
 **dataset:** shuffled from train_simplified.
 
