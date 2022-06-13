@@ -10,7 +10,7 @@
 ### Train on Google Colab
 - upload training data to google drive
 - Run all cells in quickdraw.ipynb 
----
+
 ### Train at Local machine
 ### Prerequisites
 #### Mac with apple silicon
@@ -40,16 +40,16 @@
 ```
     python -m pip install tensorflow-metal
 ```
----
+
 ### Start Training
 1. Open Jupyter Lab
 ```sh
-jupyter lab
+    jupyter lab
 ```
 2. 
     - clone this github repository
     - Either run all cells in quickdraw.ipynb or run the main.py in branch `package`
----
+
 ## Submit to Kaggle
 - **website**: https://www.kaggle.com/competitions/quickdraw-doodle-recognition/submit
 
