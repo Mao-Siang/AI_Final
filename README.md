@@ -4,7 +4,7 @@
 **website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview <br>
 **dataset:** shuffled from train_simplified from https://www.kaggle.com/competitions/quickdraw-doodle-recognition/data.
 
----
+
 ## Training
 
 ### Train on Google Colab
@@ -43,7 +43,7 @@
 ```
 
 ### Start Training
-1. Open Jupyter Lab
+1. Open Jupyter Lab (For Jupyter Notebook)
 ```sh
     jupyter lab
 ```
