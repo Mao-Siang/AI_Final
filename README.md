@@ -14,6 +14,7 @@
 ### Train at Local machine
 ### Prerequisites
 #### Mac with apple silicon
+- Download Conda env: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
 1. Install Miniforge3
 ```sh
     chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
@@ -46,14 +47,13 @@
 ```sh
     jupyter lab
 ```
-2. 
+2. Train
     - clone this github repository
     - Either run all cells in quickdraw.ipynb or run the main.py in branch `package`
 
 ## Submit to Kaggle
 - **website**: https://www.kaggle.com/competitions/quickdraw-doodle-recognition/submit
 
----
 ## References
 1. https://www.kaggle.com/code/gaborfodor/greyscale-mobilenet-lb-0-892
 2. https://www.kaggle.com/code/kotarojp/first-step-for-submission-keras-resnet50
