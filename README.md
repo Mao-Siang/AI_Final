@@ -55,6 +55,6 @@
 - **website**: [submit](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/submit)
 
 ## References
-1. [GrayScale](https://www.kaggle.com/code/gaborfodor/greyscale-mobilenet-lb-0-892)
-2. [Resnet50](https://www.kaggle.com/code/kotarojp/first-step-for-submission-keras-resnet50)
-3. [CNN](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/discussion/70558)
+1. [GrayScale-MobileNet](https://www.kaggle.com/code/gaborfodor/greyscale-mobilenet-lb-0-892)
+2. [RGB-Resnet50](https://www.kaggle.com/code/kotarojp/first-step-for-submission-keras-resnet50)
+3. [CNN-Tips](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/discussion/70558)
