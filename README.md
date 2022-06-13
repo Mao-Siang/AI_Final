@@ -1,8 +1,8 @@
 # AI Final
 
 ### Quickdraw Classification Problem
-**website:** https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview <br>
-**dataset:** shuffled from train_simplified from https://www.kaggle.com/competitions/quickdraw-doodle-recognition/data.
+**website:** [quickdraw-doodle-recognition](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/overview) <br>
+**dataset:** shuffled from train_simplified from [kaggle dataset](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/data.)
 
 
 ## Training
@@ -14,7 +14,7 @@
 ### Train at Local machine
 ### Prerequisites
 #### Mac with apple silicon
-- Download Conda env: https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
+- Download Conda env: [download](https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh)
 1. Install Miniforge3
 ```sh
     chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
@@ -52,9 +52,9 @@
     - Either run all cells in quickdraw.ipynb or run the main.py in branch `package`
 
 ## Submit to Kaggle
-- **website**: https://www.kaggle.com/competitions/quickdraw-doodle-recognition/submit
+- **website**: [submit](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/submit)
 
 ## References
-1. https://www.kaggle.com/code/gaborfodor/greyscale-mobilenet-lb-0-892
-2. https://www.kaggle.com/code/kotarojp/first-step-for-submission-keras-resnet50
-3. https://www.kaggle.com/competitions/quickdraw-doodle-recognition/discussion/70558
+1. [GrayScale](https://www.kaggle.com/code/gaborfodor/greyscale-mobilenet-lb-0-892)
+2. [Resnet50](https://www.kaggle.com/code/kotarojp/first-step-for-submission-keras-resnet50)
+3. [CNN](https://www.kaggle.com/competitions/quickdraw-doodle-recognition/discussion/70558)
