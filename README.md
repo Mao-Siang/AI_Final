@@ -1,2 +1,6 @@
 # AI_Final
-BaBa's contribution
+##### chengshun's contribution
+##### Turn jupyter notebook into package
+## How to train
+### Install requirements
+### Run `main.py`
