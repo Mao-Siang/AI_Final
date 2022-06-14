@@ -1,15 +1,21 @@
 \begin{thebibliography}{1}\itemsep=-1pt
 
-\bibitem{Geiger2013IJRR}
-Andreas Geiger, Philip Lenz, Christoph Stiller, and Raquel Urtasun.
-\newblock Vision meets robotics: The kitti dataset.
-\newblock {\em International Journal of Robotics Research (IJRR)}, 2013.
+\bibitem{MobileNet}
+Andrew~G. Howard, Bo~Chen Menglong~Zhu, Weijun~Wang Dmitry~Kalenichenko,
+  Marco~Andreetto Tobias~Weyand, and Hartwig Adam.
+\newblock {MobileNets: Efficient Convolutional Neural Networks for Mobile
+  Vision Applications}.
+\newblock {\em arXiv}, 2017.
 
-\bibitem{ZengCVPR17anticipation}
-Kuo-Hao Zeng, Shih-Han Chou, Fu-Hsiang Chan, Juan~Carlos Niebles, and Min Sun.
-\newblock Agent-centric risk assessment: Accident anticipation and risky region
-  localization.
-\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
-  Pattern Recognition (CVPR)}, 2017.
+\bibitem{Medical}
+Mauro~Castelli Ibrahem~Kandel.
+\newblock The effect of batch size on the generalizability of the convolutional
+  neural networks on a histopathology dataset.
+\newblock {\em ScienceDirect}, 2020.
+
+\bibitem{BATCHSIZE}
+Dominic Masters and Carlo Luschi.
+\newblock {Revisiting Small Batch Training For Deep Neural Networks}.
+\newblock {\em Graphcore Research}, 2018.
 
 \end{thebibliography}

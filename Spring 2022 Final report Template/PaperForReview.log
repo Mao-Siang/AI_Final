@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.14)  12 JUN 2022 14:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.14)  14 JUN 2022 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -565,48 +565,75 @@ LaTeX Info: Redefining \nameref on input line 50.
 \@outlinefile=\write3
 \openout3 = `PaperForReview.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 69.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 69.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 70.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 69.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 88.
+LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 69.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omspcr.fd
+File: omspcr.fd 
+)
+LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+ [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 169.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) (./PaperForReview.bbl (./PaperForReview.brf)
+)
+<./images/340-loss.png, id=42, 854.19125pt x 285.065pt>
+File: ./images/340-loss.png Graphic file (type png)
+<use ./images/340-loss.png>
+Package pdftex.def Info: ./images/340-loss.png  used on input line 176.
+(pdftex.def)             Requested size: 189.70947pt x 63.3104pt.
+<./images/680-loss.png, id=44, 1156.32pt x 370.0224pt>
+File: ./images/680-loss.png Graphic file (type png)
+<use ./images/680-loss.png>
+Package pdftex.def Info: ./images/680-loss.png  used on input line 181.
+(pdftex.def)             Requested size: 225.27841pt x 72.08914pt.
+<./images/1500-10.png, id=45, 1156.32pt x 371.9496pt>
+File: ./images/1500-10.png Graphic file (type png)
+<use ./images/1500-10.png>
+Package pdftex.def Info: ./images/1500-10.png  used on input line 195.
+(pdftex.def)             Requested size: 225.27841pt x 72.4646pt.
+<./images/20000-37.png, id=46, 1156.32pt x 365.6862pt>
+File: ./images/20000-37.png Graphic file (type png)
+<use ./images/20000-37.png>
+Package pdftex.def Info: ./images/20000-37.png  used on input line 200.
+(pdftex.def)             Requested size: 225.27841pt x 71.24434pt.
+ (./PaperForReview.bbl (./PaperForReview.brf)
 \tf@brf=\write4
 \openout4 = `PaperForReview.brf'.
 
-) [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-
-] (./PaperForReview.aux)
+) [2 <./images/340-loss.png> <./images/680-loss.png> <./images/1500-10.png> <./images/20000-37.png>] (./PaperForReview.aux)
 Package rerunfilecheck Info: File `PaperForReview.out' has not changed.
-(rerunfilecheck)             Checksum: 85C0547A972CAF882ADC21F3786D6964;457.
+(rerunfilecheck)             Checksum: 9C452D432D099A243BC2985A527FCAF4;601.
 Package rerunfilecheck Info: File `PaperForReview.brf' has not changed.
-(rerunfilecheck)             Checksum: CDB0E8E3B3F79FC220A8459A2E17036B;69.
+(rerunfilecheck)             Checksum: DBC102439A5236C1E17F2C590D90D09B;172.
  ) 
 Here is how much of TeX's memory you used:
- 15372 strings out of 478268
- 250616 string characters out of 5846347
- 567749 words of memory out of 5000000
- 33325 multiletter control sequences out of 15000+600000
- 487583 words of font info for 68 fonts, out of 8000000 for 9000
+ 15453 strings out of 478268
+ 252014 string characters out of 5846347
+ 575749 words of memory out of 5000000
+ 33387 multiletter control sequences out of 15000+600000
+ 489489 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,9n,91p,394b,371s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PaperForReview.pdf (1 page, 53894 bytes).
+ 87i,9n,91p,394b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PaperForReview.pdf (2 pages, 537502 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

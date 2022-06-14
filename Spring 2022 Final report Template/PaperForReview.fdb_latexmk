@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex PaperForReview"] 1654831383 "PaperForReview.aux" "PaperForReview.bbl" "PaperForReview" 1655016627
+["bibtex PaperForReview"] 1655193143 "PaperForReview.aux" "PaperForReview.bbl" "PaperForReview" 1655193629
   "./ieee_fullname.bst" 1654877130 19905 72b73f4cb1c51eaa1a7af8ecad2b6bfb ""
-  "PaperForReview.aux" 1655016627 1476 03afe38757df25bd80b22075917ba950 "pdflatex"
-  "egbib.bib" 1654877130 2481 662a481a8702ef821a3febb09ec054d0 ""
+  "PaperForReview.aux" 1655193629 2454 cae8ad38baad4b8381ba6d24618144b5 "pdflatex"
+  "egbib.bib" 1655180844 2619 e5b7eb81b64efa519414a40c5358351c ""
   (generated)
   "PaperForReview.bbl"
   "PaperForReview.blg"
-["pdflatex"] 1655016626 "/Users/chenvincent/Desktop/110下/Intro to AI/AI_Final/Spring 2022 Final report Template/PaperForReview.tex" "PaperForReview.pdf" "PaperForReview" 1655016627
-  "/Users/chenvincent/Desktop/110下/Intro to AI/AI_Final/Spring 2022 Final report Template/PaperForReview.tex" 1655016625 3703 0d6711659baf36f50893dc005e90d8e8 ""
+["pdflatex"] 1655193628 "/Users/chenvincent/Desktop/110下/Intro to AI/AI_Final/Spring 2022 Final report Template/PaperForReview.tex" "PaperForReview.pdf" "PaperForReview" 1655193629
+  "/Users/chenvincent/Desktop/110下/Intro to AI/AI_Final/Spring 2022 Final report Template/PaperForReview.tex" 1655193627 11020 b322834be9b5e05fb6db6f4dd76f3048 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -39,6 +39,8 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1136768653 1116 25a7bf822c58caf309a702ef79f4afbb ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb" 1248133631 32442 c975af247b6702f7ca0c299af3616b80 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -113,6 +115,7 @@
   "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1644269979 29921 d0acc05a38bd4aa3af2017f0b7c137ce ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg" 1279039959 678 4792914a8f45be57bb98413425e4c7af ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty" 1575499565 5766 13a9e8766c47f30327caf893ece86ac8 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/omspcr.fd" 1137110629 576 907c194ce74186f4e40247f2ba1986cf ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd" 1137110629 985 1ed784d7bfe47179f3550d2303b073f8 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ptm.fd" 1137110629 961 15056f4a61917ceed3a44e4ac11fcc52 ""
   "/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty" 1586716065 2283 62e73848f29fd8cd37fb7974c7cf2221 ""
@@ -130,12 +133,16 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1649868909 2826441 8c0650a4b06546a6a95b52dcfc686e8e ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "PaperForReview.aux" 1655016627 1476 03afe38757df25bd80b22075917ba950 "pdflatex"
-  "PaperForReview.bbl" 1654877130 604 5c18d3231aff0ffa3743aaf522a822c1 "bibtex PaperForReview"
-  "PaperForReview.brf" 1655016627 69 cdb0e8e3b3f79fc220a8459a2e17036b "pdflatex"
-  "PaperForReview.out" 1655016627 457 85c0547a972caf882adc21f3786d6964 "pdflatex"
-  "PaperForReview.tex" 1655016625 3703 0d6711659baf36f50893dc005e90d8e8 ""
+  "PaperForReview.aux" 1655193629 2454 cae8ad38baad4b8381ba6d24618144b5 "pdflatex"
+  "PaperForReview.bbl" 1655193143 716 d4b8591dceefdafc38d95c0f909b6faa "bibtex PaperForReview"
+  "PaperForReview.brf" 1655193629 172 dbc102439a5236c1e17f2c590d90d09b "pdflatex"
+  "PaperForReview.out" 1655193629 601 9c452d432d099a243bc2985a527fcaf4 "pdflatex"
+  "PaperForReview.tex" 1655193627 11020 b322834be9b5e05fb6db6f4dd76f3048 ""
   "cvpr.sty" 1654877130 22663 ae69ac60d981219f288927532f3b519c ""
+  "images/1500-10.png" 1655191288 220883 76b85b7a35588ce29abb9bd117109ad5 ""
+  "images/20000-37.png" 1655190753 240766 46f0adf658d6d9dcff77465eabb19192 ""
+  "images/340-loss.png" 1655190249 73748 3992f242ba042042eca9c23ea385bb8d ""
+  "images/680-loss.png" 1655190523 213360 7168e1d5278a859deaf26f36a4001026 ""
   (generated)
   "PaperForReview.aux"
   "PaperForReview.brf"
