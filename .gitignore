@@ -3,3 +3,4 @@ test_simplified.csv
 gs.png
 .DS_Store
 .ipynb_checkpoints/*
+other_results/resnet50v2-model.h5
